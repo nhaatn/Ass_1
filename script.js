@@ -1,5 +1,3 @@
-
-
 function clock() {
     const fullDate = new Date();
     var hours = fullDate.getHours();
